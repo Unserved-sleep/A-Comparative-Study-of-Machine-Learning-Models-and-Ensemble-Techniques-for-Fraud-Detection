@@ -1,0 +1,2 @@
+# A-Comparative-Study-of-Machine-Learning-Models-and-Ensemble-Techniques-for-Fraud-Detection
+Comprehensive fraud detection project using advanced ML and ensemble methods. Includes data preprocessing, feature engineering, SVM tuning, and comparative analysis of models (XGBoost, LightGBM, CatBoost). Visualizations highlight feature importance and performance metrics like accuracy and ROC, aiming to enhance prediction accuracy.
